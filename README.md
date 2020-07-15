@@ -19,7 +19,6 @@ The following files from the initial dataset is used:
 
 
 * [`CodeBook.md`](https://github.com/xyzdiego/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md) This is a file that describes the variables, the data, and any transformations or work that I performed to clean up the data
-* `CodeBook.md` This is a file that describes the variables, the data, and any transformations or work that I performed to clean up the data
 * [`run_analysis.r`](https://github.com/xyzdiego/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R) This is a script that performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 	* Merges the training and the test sets to create one data set.
 	* Extracts only the measurements on the mean and standard deviation for each measurement.
